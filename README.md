@@ -20,7 +20,7 @@ So that I can make money.
 
 ## Installation
 
-Go [here](https://github.com/fredkamm/sweater_season), and clone the repository.  Open a terminal, navigate to the folder you cloned the repo in, and run these commands:
+Go [here](https://github.com/blchase215/sweater_season), and clone the repository.  Open a terminal, navigate to the folder you cloned the repo in, and run these commands:
 
     $ npm install
     $ npm run seed
@@ -54,7 +54,11 @@ These features are complete and functional.
 
 ## Heroku Deployment
 
-**Add Heroku Link Here**
+[Link to site, live on Heroku](https://arcane-taiga-97342.herokuapp.com/)
+
+## Github Repo
+
+[Link to this Repo](https://github.com/blchase215/sweater_season)
 
 ## Credits
 
